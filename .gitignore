@@ -1,0 +1,93 @@
+## Ignore Visual Studio temporary files, build results, and
+## personal user settings.
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+TestResults/
+*.cache
+*.log
+
+# ASP.NET temporary files
+**/App_Data/Logs/
+**/App_Data/Temp/
+**/App_Data/uploads/
+*.dbmdl
+
+# VS Code directories
+.vscode/
+
+# Visual Studio working folders
+.vs/
+*.vspx
+
+# IIS Express
+.vs/
+.vscode/
+.idea/
+*.vssscc
+*.vspscc
+*.dbmdl
+
+# Rider
+.idea/
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# DotCover
+*.dotCover
+
+# Entity Framework Migrations
+Migrations/
+
+# Web publish files
+*.Publish.xml
+publish/
+
+# Others
+*.swp
+*.bak
+*.tmp
+*.orig
+*.rej
+*.sdf
+*.cache
+*.sln.docstates
+
+# Local SQL databases
+*.mdf
+*.ldf
+
+# JetBrains Rider
+.idea/
+
+# Logs
+*.log
+Logs/
+
+# Azure Pipelines
+.vsts/
+
+# Node modules (if you’re using Node.js for frontend)
+node_modules/
+
+# Environment config
+.env
+
+wwwroot/
