@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Core.Interfaces
 {
-    internal interface IUserRepository
+    public interface IUserRepository
     {
         IEnumerable<UserDTO> GetAll();
         IEnumerable<UserDTO> GetByUserName(string userName);
